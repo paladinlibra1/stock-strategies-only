@@ -11,6 +11,19 @@
 
 ---
 
+## 📣 感謝大家的支持！
+
+沒想到這個小專案會這麼受歡迎 🙏 真心感謝每一位 Star、Fork、回報問題與提出建議的朋友。
+
+接下來會**持續更新**，重點方向：
+
+- 🎨 **全新 UI / UX** — 不再只有 Telegram 通知，將推出互動式網頁 Dashboard（今日訊號表、個股卡片、Performance 回測曲線）
+- 🤖 **Multi-Agent 互動介面** — 結合 CopilotKit + LangGraph，讓你直接「跟 AI 對話」管理觀察清單、重跑選股、做 what-if 回測
+
+敬請期待，也歡迎繼續提 issue 與 PR 一起把它做得更好！
+
+---
+
 ## 這是什麼？
 
 一個 **單檔 Python 腳本**，幫你每天自動做三件事：
@@ -401,6 +414,13 @@ Private repo 每月免費 2000 分鐘，這個 workflow 每次約 2 分鐘，每
 ---
 
 ## 🛣️ Roadmap
+
+**🚧 進行中（下一個大版本）**
+
+- [ ] 🎨 **互動式網頁 Dashboard** — 今日訊號表、個股詳情卡、Performance 回測曲線（Next.js + Tailwind）
+- [ ] 🤖 **Multi-Agent 對話介面** — CopilotKit + LangGraph，用對話管理 watchlist、重跑選股、what-if 回測
+
+**📋 規劃中**
 
 - [ ] 類股強弱前置過濾 — 順風類股才出訊號
 - [ ] 資金控管模組 — 追蹤總部位曝險
